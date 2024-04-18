@@ -1,0 +1,10 @@
+[project]
+name = "Crappy-Bird"
+description = "Crappy Flappy Bird"
+readme = "README.md"
+dynamic = ["version"]
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "pygame-ce>=2.4.1,<2.5",
+]
+
