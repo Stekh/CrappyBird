@@ -8,6 +8,3 @@ dependencies = [
     "pygame-ce>=2.4.1,<2.5",
     "pytest",
 ]
-
-[pytest]
-testpaths = ".\\test"
